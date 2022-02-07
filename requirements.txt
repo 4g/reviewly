@@ -1,0 +1,9 @@
+pip
+wheel
+tqdm
+numpy
+tensorflow
+tensorflow_hub
+tensorflow_text
+opencv-python
+scikit-learn
